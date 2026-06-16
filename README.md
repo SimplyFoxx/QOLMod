@@ -25,3 +25,5 @@ Macro Friendly: Easily trigger your bag sort with a simple /qol sort macro.
 Commands:
 /qol - Config menu
 /qol sort - Sort Bags 
+
+# Download straight from the repo, not from releases, they don't get updated as much!

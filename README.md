@@ -1,4 +1,4 @@
-QOL Bag Addon for WoW WotLK 3.3.5a (MAFWoW) by foks
+# QOL Bag Addon for WoW WotLK 3.3.5a (MAFWoW) by foks
 
 Features:
 
@@ -26,4 +26,4 @@ Commands:
 /qol - Config menu
 /qol sort - Sort Bags 
 
-# Download straight from the repo, not from releases, they don't get updated as much!
+## Download straight from the repo, not from releases, they don't get updated as much!

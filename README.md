@@ -1,6 +1,7 @@
 QOL Bag Addon for WoW WotLK 3.3.5a (MAFWoW) by foks
 
 Features:
+
 Intelligent Junk Seller: Adds a "Sell Junk" button to every merchant window. You can set the threshold (from Greys all the way up to Epics) in the config. It automatically protects your Materials (Cloth, Ore, Herbs), Potions, and Recipes so you never accidentally sell your valuables.
 
 Mathematical Bag Sorting: Uses a linear mapping system to reorganize your entire inventory with one command. Unlike standard sorters, it forces a specific, logical layout:

@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: QOL Bags
+## Notes: Quality of Life mod by foks. Featuring Bag Sorting with Armor and Weapon ordering by type. Also has Junk a Junk selling option with configurable undesired quality.
+## SavedVariables: QOLModDB
+## Author: foks
+
+QOLMod.lua
